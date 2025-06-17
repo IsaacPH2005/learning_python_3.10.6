@@ -31,7 +31,9 @@ import sys  # Importa el módulo sys para acceder a información del sistema
 #print(z)
 
 #Un valor para múltiples variables
-
-
+x = y = z = "Todos somos iguaeles"
+print(x)
+print(y)
+print(z)
 
 

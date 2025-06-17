@@ -19,11 +19,18 @@ import sys  # Importa el módulo sys para acceder a información del sistema
 #print(z)
 
 #Obtener type 
-x = 4
-y = "hola"
-print(type(x))
-print(type(y))
+#x = 4
+#y = "hola"
+#print(type(x))
+#print(type(y))
 
+#Muchos valores para múltiples variables
+#x,y,z = "rojo", "amarillo", "verde"
+#print(x)
+#print(y)
+#print(z)
+
+#Un valor para múltiples variables
 
 
 

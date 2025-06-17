@@ -44,12 +44,20 @@ import sys  # Importa el módulo sys para acceder a información del sistema
 #print(z)    # Salida: platano
 
 #Variables de salida "print()"
-texto = "Hola python"
-print(texto)
+#texto = "Hola python"
+#print(texto)
 
-n1 = int(1)
-n2 = int(2)
-print(n1 + n2)
+#n1 = int(1)
+#n2 = int(2)
+#print(n1 + n2)
+
+#Variables globales
+texto = "Hola python"
+def miFuncion():
+    print(texto)
+miFuncion()    
+print("texto global:", texto)
+
 
 
 

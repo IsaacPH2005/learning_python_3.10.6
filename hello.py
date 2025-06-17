@@ -5,7 +5,17 @@ import sys  # Importa el módulo sys para acceder a información del sistema
 
 
 # Variables
-x = 5
-y = "Hola mundo"
+#x = 5
+#y = "Hola mundo"
+#print(x)
+#print(y)
+
+#Fundicion
+x = int(5)
+y = str("Hola")
+z = float(5)
 print(x)
 print(y)
+print(z)
+
+

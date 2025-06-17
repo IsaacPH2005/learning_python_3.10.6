@@ -37,11 +37,19 @@ import sys  # Importa el módulo sys para acceder a información del sistema
 #print(z)
 
 #Desempaquetar una colección
-frutas = ['naranja', 'manzana', 'platano']
-x, y, z = frutas
-print(x)    # Salida: naranja
-print(y)    # Salida: manzana
-print(z)    # Salida: platano
+#frutas = ['naranja', 'manzana', 'platano']
+#x, y, z = frutas
+#print(x)    # Salida: naranja
+#print(y)    # Salida: manzana
+#print(z)    # Salida: platano
+
+#Variables de salida "print()"
+texto = "Hola python"
+print(texto)
+
+n1 = int(1)
+n2 = int(2)
+print(n1 + n2)
 
 
 

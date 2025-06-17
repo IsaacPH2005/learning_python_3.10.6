@@ -11,11 +11,20 @@ import sys  # Importa el módulo sys para acceder a información del sistema
 #print(y)
 
 #Fundicion
-x = int(5)
-y = str("Hola")
-z = float(5)
-print(x)
-print(y)
-print(z)
+#x = int(5)
+#y = str("Hola")
+#z = float(5)
+#print(x)
+#print(y)
+#print(z)
+
+#Obtener type 
+x = 4
+y = "hola"
+print(type(x))
+print(type(y))
+
+
+
 
 

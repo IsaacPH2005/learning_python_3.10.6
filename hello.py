@@ -31,9 +31,17 @@ import sys  # Importa el módulo sys para acceder a información del sistema
 #print(z)
 
 #Un valor para múltiples variables
-x = y = z = "Todos somos iguaeles"
-print(x)
-print(y)
-print(z)
+#x = y = z = "Todos somos iguaeles"
+#print(x)
+#print(y)
+#print(z)
+
+#Desempaquetar una colección
+frutas = ['naranja', 'manzana', 'platano']
+x, y, z = frutas
+print(x)    # Salida: naranja
+print(y)    # Salida: manzana
+print(z)    # Salida: platano
+
 
 
